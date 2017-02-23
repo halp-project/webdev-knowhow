@@ -9,6 +9,9 @@ Resources to learn how to build webapps with Angular 2 (frontend) &amp; Play 2 J
   - [Basic Algorithm Scripting](https://www.freecodecamp.com/challenges/get-set-for-our-algorithm-challenges)
   - [Intermediate Algorithm Scripting](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range)
   - [Advanced Algorithm Scripting](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers)
+  
+🔑 Key
+- [Callback Hell](http://callbackhell.com/) - In JavaScript and TypeScript there are a lot of asyncronous operations, and they are managed with callbacks. It's common when you are getting started to write multiple callbacks in an ugly way. This article will help you to write good code with callbacks.
 
 ### TypeScript
 TypeScript is like JavaScript but with types.
@@ -17,8 +20,15 @@ TypeScript is like JavaScript but with types.
 ### Angular 2
 - [Angular 2](https://angular.io/): Framework to build Progressive Web Applications with TypeScript
 
-Basic:
+Basic
 - [Tour Of Heroes](https://angular.io/docs/ts/latest/tutorial/) - Basic to tutorial to master concepts of Angular 2
 - [Guide](https://angular.io/docs/ts/latest/guide/) - Complete guide
 
-Key
+🔑 Key
+From the [Advanced Angular 2 topics](https://angular.io/docs/ts/latest/guide/ngmodule.html), the must-read documentation:
+- [Angular Modules](https://angular.io/docs/ts/latest/guide/ngmodule.html) - Multiple modules in an app is great.
+- [Pipes](https://angular.io/docs/ts/latest/guide/pipes.html)
+- [Navigation](https://angular.io/docs/ts/latest/guide/router.html)
+
+Examples:
+- [Angular 2 Authentication Sample](https://github.com/auth0-blog/angular2-authentication-sample) - An example of an Angular 2 app with a simple backend with authentication and authenticated requests.
