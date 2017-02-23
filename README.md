@@ -5,7 +5,7 @@ Resources to learn how to build webapps with Angular 2 (frontend) &amp; Play 2 J
 - [Git Tutorial](https://www.atlassian.com/git)
 - [GitHub Guides](https://guides.github.com/)
 - [Learning Markdown for README files](https://guides.github.com/features/mastering-markdown/)
-
+- [Git operations explained with graphics](https://onlywei.github.io/explain-git-with-d3/) - This is super cool! ✌️
 ## Frontend
 ### JavaScript
 - [Codecademy Course](https://www.codecademy.com/learn/javascript) - Basic course about JavaScript
