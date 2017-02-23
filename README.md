@@ -1,6 +1,11 @@
 # h-assistant-webdev-knowhow
 Resources to learn how to build webapps with Angular 2 (frontend) &amp; Play 2 Java (backend)
 
+## Collaborative Development and good Product Engineering practices
+- [Git Tutorial](https://www.atlassian.com/git)
+- [GitHub Guides](https://guides.github.com/)
+- [Learning Markdown for README files](https://guides.github.com/features/mastering-markdown/)
+
 ## Frontend
 ### JavaScript
 - [Codecademy Course](https://www.codecademy.com/learn/javascript) - Basic course about JavaScript
@@ -9,8 +14,10 @@ Resources to learn how to build webapps with Angular 2 (frontend) &amp; Play 2 J
   - [Basic Algorithm Scripting](https://www.freecodecamp.com/challenges/get-set-for-our-algorithm-challenges)
   - [Intermediate Algorithm Scripting](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range)
   - [Advanced Algorithm Scripting](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers)
-  
+
+
 **🔑 Key**
+
 - [Callback Hell](http://callbackhell.com/) - In JavaScript and TypeScript there are a lot of asyncronous operations, and they are managed with callbacks. It's common when you are getting started to write multiple callbacks in an ugly way. This article will help you to write good code with callbacks.
 
 ### TypeScript
