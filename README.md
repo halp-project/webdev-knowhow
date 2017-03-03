@@ -31,6 +31,7 @@ TypeScript is like JavaScript but with types.
 **Basic**
 - [Tour Of Heroes](https://angular.io/docs/ts/latest/tutorial/) - Basic to tutorial to master concepts of Angular 2
 - [Guide](https://angular.io/docs/ts/latest/guide/) - Complete guide
+- [A Better Way to Learn Angular 2](https://thinkster.io/tutorials/learn-angular-2) Other basic tutorial.
 
 **🔑 Key**
 
@@ -41,5 +42,6 @@ From the [Advanced Angular 2 topics](https://angular.io/docs/ts/latest/guide/ngm
 
 **Examples:**
 - [Angular 2 Authentication Sample](https://github.com/auth0-blog/angular2-authentication-sample) - An example of an Angular 2 app with a simple backend with authentication and authenticated requests.
+- [Production Quality Apps with Angular 2](https://thinkster.io/tutorials/building-real-world-angular-2-apps) - In this tutorial series you'll learn the fundamentals of Angular 2 and how to actually use it for building real world applications.
 
 ## Backend
