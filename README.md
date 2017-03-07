@@ -45,3 +45,5 @@ From the [Advanced Angular 2 topics](https://angular.io/docs/ts/latest/guide/ngm
 - [Production Quality Apps with Angular 2](https://thinkster.io/tutorials/building-real-world-angular-2-apps) - In this tutorial series you'll learn the fundamentals of Angular 2 and how to actually use it for building real world applications.
 
 ## Backend
+### Extras
+- [Play Mailer Plugin](https://github.com/playframework/play-mailer) - Send notification emails with Play Java.
