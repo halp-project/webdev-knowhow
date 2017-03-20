@@ -7,8 +7,8 @@ Resources to learn how to build webapps with Angular 2 (frontend) &amp; Play 2 J
 - [Learning Markdown for README files](https://guides.github.com/features/mastering-markdown/)
 - [Git operations explained with graphics](https://onlywei.github.io/explain-git-with-d3/) - This is super cool! ✌️
 
-## Frontend
-### JavaScript
+## Frontend
+### JavaScript
 - [Codecademy Course](https://www.codecademy.com/learn/javascript) - Basic course about JavaScript
 - [Free Code Camp](https://www.freecodecamp.com) - Free Code Camp is the perfect place to learn full stack web development with JavaScript. But the only thing that matters for us here is JavaScript-only stuff.
   - [Basic JavaScript](https://www.freecodecamp.com/challenges/comment-your-javascript-code)
@@ -18,14 +18,13 @@ Resources to learn how to build webapps with Angular 2 (frontend) &amp; Play 2 J
 
 
 **🔑 Key**
-
 - [Callback Hell](http://callbackhell.com/) - In JavaScript and TypeScript there are a lot of asyncronous operations, and they are managed with callbacks. It's common when you are getting started to write multiple callbacks in an ugly way. This article will help you to write good code with callbacks.
 
-### TypeScript
+### TypeScript
 TypeScript is like JavaScript but with types.
 - [Basic Tutorial](https://www.typescriptlang.org/docs/tutorial.html)
 
-### Angular 2
+### Angular 2
 - [Angular 2](https://angular.io/): Framework to build Progressive Web Applications with TypeScript
 
 **Basic**
