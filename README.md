@@ -5,7 +5,7 @@ Resources to learn how to build webapps with Angular 2 (frontend) &amp; Play 2 J
 **Agile Methodology**
 - [User Stories](https://www.mountaingoatsoftware.com/agile/user-stories) - An
 explanation of what user stories are.
-** Git **
+**Git**
 - [Git Tutorial](https://www.atlassian.com/git)
 - [GitHub Guides](https://guides.github.com/)
 - [Learning Markdown for README files](https://guides.github.com/features/mastering-markdown/)
