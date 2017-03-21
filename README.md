@@ -2,7 +2,7 @@
 Resources to learn how to build webapps with Angular 2 (frontend) &amp; Play 2 Java (backend)
 
 ## Collaborative Development and good Product Engineering practices
-** Agile Methodology **
+**Agile Methodology**
 - [User Stories](https://www.mountaingoatsoftware.com/agile/user-stories) - An
 explanation of what user stories are.
 ** Git **
