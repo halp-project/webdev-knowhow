@@ -2,11 +2,11 @@
 Resources to learn how to build webapps with Angular 2 (frontend) &amp; Play 2 Java (backend)
 
 ## Collaborative Development and good Product Engineering practices
-**Agile Methodology**
+### Agile Methodology
 - [User Stories](https://www.mountaingoatsoftware.com/agile/user-stories) - An
 explanation of what user stories are.
 
-**Git**
+### Git
 - [Git Tutorial](https://www.atlassian.com/git)
 - [GitHub Guides](https://guides.github.com/)
 - [Learning Markdown for README files](https://guides.github.com/features/mastering-markdown/)
@@ -43,6 +43,9 @@ From the [Advanced Angular 2 topics](https://angular.io/docs/ts/latest/guide/ngm
 - [Angular Modules](https://angular.io/docs/ts/latest/guide/ngmodule.html) - Multiple modules in an app is great.
 - [Pipes](https://angular.io/docs/ts/latest/guide/pipes.html)
 - [Navigation](https://angular.io/docs/ts/latest/guide/router.html)
+
+**Handy**
+- [Angular CLI](https://cli.angular.io/) - helps you to make repeated tasks with commands.
 
 **Examples:**
 - [Angular 2 Authentication Sample](https://github.com/auth0-blog/angular2-authentication-sample) - An example of an Angular 2 app with a simple backend with authentication and authenticated requests.
