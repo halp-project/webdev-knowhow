@@ -31,6 +31,7 @@ TypeScript is like JavaScript but with types.
 
 ### Angular 2
 - [Angular 2](https://angular.io/): Framework to build Progressive Web Applications with TypeScript
+- [Navigator Menu - Angular 2](http://blog.angular-university.io/angular-2-router-nested-routes-and-nested-auxiliary-routes-build-a-menu-navigation-system/): Angular Router Crash Course - Build a Navigation Menu with Bootstrap 4
 
 **Basic**
 - [Tour Of Heroes](https://angular.io/docs/ts/latest/tutorial/) - Basic to tutorial to master concepts of Angular 2
