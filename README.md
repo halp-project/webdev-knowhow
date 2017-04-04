@@ -14,6 +14,8 @@ explanation of what user stories are.
 
 ## Frontend
 ### JavaScript
+
+**Basic**
 - [Codecademy Course](https://www.codecademy.com/learn/javascript) - Basic course about JavaScript
 - [Free Code Camp](https://www.freecodecamp.com) - Free Code Camp is the perfect place to learn full stack web development with JavaScript. But the only thing that matters for us here is JavaScript-only stuff.
   - [Basic JavaScript](https://www.freecodecamp.com/challenges/comment-your-javascript-code)
@@ -21,11 +23,13 @@ explanation of what user stories are.
   - [Intermediate Algorithm Scripting](https://www.freecodecamp.com/challenges/sum-all-numbers-in-a-range)
   - [Advanced Algorithm Scripting](https://www.freecodecamp.com/challenges/validate-us-telephone-numbers)
 
-
 **🔑 Key**
 - [Callback Hell](http://callbackhell.com/) - In JavaScript and TypeScript there are a lot of asyncronous operations, and they are managed with callbacks. It's common when you are getting started to write multiple callbacks in an ugly way. This article will help you to write good code with callbacks.
 
 ### TypeScript
+
+**Basic**
+
 TypeScript is like JavaScript but with types.
 - [Basic Tutorial](https://www.typescriptlang.org/docs/tutorial.html)
 
@@ -46,11 +50,14 @@ From the [Advanced Angular 2 topics](https://angular.io/docs/ts/latest/guide/ngm
 
 **Handy**
 - [Angular CLI](https://cli.angular.io/) - helps you to make repeated tasks with commands.
+- [Navigator Menu - Angular 2](http://blog.angular-university.io/angular-2-router-nested-routes-and-nested-auxiliary-routes-build-a-menu-navigation-system/) - Angular Router Crash Course - Build a Navigation Menu with Bootstrap 4
 
 **Examples:**
 - [Angular 2 Authentication Sample](https://github.com/auth0-blog/angular2-authentication-sample) - An example of an Angular 2 app with a simple backend with authentication and authenticated requests.
 - [Production Quality Apps with Angular 2](https://thinkster.io/tutorials/building-real-world-angular-2-apps) - In this tutorial series you'll learn the fundamentals of Angular 2 and how to actually use it for building real world applications.
 
 ## Backend
-### Extras
+### Play 2 (Java)
+
+**Handy**
 - [Play Mailer Plugin](https://github.com/playframework/play-mailer) - Send notification emails with Play Java.
