@@ -57,7 +57,17 @@ From the [Advanced Angular 2 topics](https://angular.io/docs/ts/latest/guide/ngm
 - [Production Quality Apps with Angular 2](https://thinkster.io/tutorials/building-real-world-angular-2-apps) - In this tutorial series you'll learn the fundamentals of Angular 2 and how to actually use it for building real world applications.
 
 ## Backend
-### Play 2 (Java)
+### Node.js
+- [Node.js](https://nodejs.org/es/)
+
+**Basic**
+- [Learnyounode](https://github.com/workshopper/learnyounode) - An introduction to Node.js.
+- [API REST JSON with Node.js and MongoDB](https://www.youtube.com/playlist?list=PLUdlARNXMVkk7E88zOrphPyGdS50Tadlr) - A course to create a REST API with Node.js. *(Spanish)*
+
+### API REST & Express.js
 
 **Handy**
-- [Play Mailer Plugin](https://github.com/playframework/play-mailer) - Send notification emails with Play Java.
+- [HTTP Status Codes](https://httpstatuses.com/) - A list of all HTTP status codes.
+
+**Example**
+- [GitHub API](https://developer.github.com/v3/) - A great example of how to document a REST API.
