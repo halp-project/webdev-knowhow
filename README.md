@@ -1,5 +1,5 @@
 # halp-webdev-knowhow
-Resources to learn how to build webapps with Angular 2 (frontend) &amp; Play 2 Java (backend)
+Resources to learn how to build great web apps with Angular, TypeScript, Node.js, Express.js, TypeScript and more, applying good product engineering practices.
 
 ## Collaborative Development and good Product Engineering practices
 ### Agile Methodology
